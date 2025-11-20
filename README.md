@@ -3,12 +3,12 @@
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
 ![Learning](https://img.shields.io/badge/Learning-C++-orange)
 
-## Recursive array inversion
+# Recursive array inversion
 
 Implementazione ricorsiva dell'algoritmo di inversione ricorsivo che inverte
 la posizione di tutti gli elementi di un vettore.
 
-# Componenti della ricorsione
+## Componenti della ricorsione
 1. **Condizioni di terminazione:** `if(j <= i)`
 2. **Istruzione di terminazione:** `return`
 3. **Passo di avvicinamento:** `i+1` - `j+1`
@@ -19,8 +19,7 @@ la posizione di tutti gli elementi di un vettore.
 2. Copia il codice sorgente.
 3. Compila ed esegui.
 
-# Codice sorgente
-
+## Codice sorgente
 ```cpp
 #include <iostream>
 #include <ctime>
@@ -77,14 +76,13 @@ void inverti_vet(int v[], int i, int j){
 }
 ```
 
-# Output
-
+## Output
 ![Risultato dell'inversione](immagini/cattura_1.PNG)
 
-# Autore
+## Autore
 
 Gabriele Henriet - [GitHub](https://github.com/Gabri-dev-C)
 
-# Licenza
+## Licenza
 
 MIT License

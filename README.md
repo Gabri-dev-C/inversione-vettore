@@ -19,7 +19,7 @@ la posizione di tutti gli elementi di un vettore.
 2. Copia il codice sorgente.
 3. Compila ed esegui.
 
-## Codice sorgente
+# Codice sorgente
 ```cpp
 #include <iostream>
 #include <ctime>
@@ -76,13 +76,11 @@ void inverti_vet(int v[], int i, int j){
 }
 ```
 
-## Output
+# Output
 ![Risultato dell'inversione](immagini/cattura_1.PNG)
 
-## Autore
-
+# Autore
 Gabriele Henriet - [GitHub](https://github.com/Gabri-dev-C)
 
-## Licenza
-
+# Licenza
 MIT License

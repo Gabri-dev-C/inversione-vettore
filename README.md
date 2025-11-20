@@ -3,7 +3,7 @@
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
 ![Learning](https://img.shields.io/badge/Learning-C++-orange)
 
-## Inversione di un vettore
+## Recursive array inversion
 
 Implementazione ricorsiva dell'algoritmo di inversione ricorsivo che inverte
 la posizione di tutti gli elementi di un vettore.
